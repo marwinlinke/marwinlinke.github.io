@@ -1,6 +1,6 @@
 title: Marwin Linke
 logo: /assets/img/logo.png
 description: Master’s student in Computer Science at Humboldt-Universität zu Berlin.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
